@@ -1,0 +1,6 @@
+## Interface: 70000
+## Author: Dakini
+## Title: |cC41F3BFFRuneReplacement|r
+## Notes: Replaces DeathKnight rune texture based on spec
+
+RuneReplacement.lua
